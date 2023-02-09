@@ -1,0 +1,9 @@
+.main{
+    background-color: blue;
+}
+.ul-list.about .bkimg{
+    background-image: url("https://about.me/s3/h/z/aboutme-desktop.d642444f.png");
+    width: 786px;
+    height: 526px;
+    background-size: contain;
+}
