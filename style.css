@@ -116,3 +116,102 @@ button{
     font-size: 22px;
     color: #333333;
 }
+.Authentic-icon{
+    background-image: url(images/authentic-desktop.50f46c34.jpg);
+    width: 762px;
+    height: 591px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.desktop-botm{
+    display: flex;
+    flex-flow: nowrap;
+    padding-left: 15%;
+    padding-right: 10%;
+    margin-top: -9%;
+}
+.desktop-botm .Authentic-content{
+    padding-top: 20%;
+    padding-left: 5%;
+}
+.desktop-botm .Authentic-content .Authentic{
+    font-size: 22px;
+    color: #000000;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.desktop-botm .Authentic-content .AuthenticShowcase{
+    font-size: 22px;
+    color: #333333;
+    font-weight: 400;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+.img-bottom{
+    background-image: url(images/simple-desktop.d285eb0c.png);
+    width: 762px;
+    height: 591px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.desktop-bottom{
+    display: flex;
+    flex-flow: nowrap;
+    padding-left: 15%;
+    padding-right: 10%;
+    margin-top: -5%; 
+}
+.desktop-bottom .Simple{
+    font-size: 22px;
+    color: #000000;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.desktop-bottom .Easy{
+    font-size: 22px;
+    color: #333333;
+    font-weight: 400;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+.desktop-bottom .simple-content{
+    padding-bottom: 30px;
+    padding-right: 50px;
+}
+.btmsec{
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 10%;
+    margin-top: -10%;
+    text-align: center;
+}
+.foot-top{
+    text-align: center;
+}
+.foot-top ul li {
+    padding-top: 5px;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: sans-serif;
+}
+.foot-top ul li a{
+    color: #0872B4;
+    text-decoration: none;
+}
+.foot-btm ul li a{
+    color: #0872B4;
+    text-decoration: none;
+}
+.foot-btm ul li{
+    padding-top: 5px;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: sans-serif;
+}
+.foot{
+    display: flex;
+    flex-flow: nowrap;
+    padding-left: 40%;
+}
