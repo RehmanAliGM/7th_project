@@ -186,6 +186,7 @@ button{
     padding-top: 10%;
     margin-top: -10%;
     text-align: center;
+
 }
 .foot-top{
     text-align: center;
@@ -214,4 +215,55 @@ button{
     display: flex;
     flex-flow: nowrap;
     padding-left: 40%;
+}
+.price-chart{
+    display: flex;
+    flex-flow: nowrap;
+    padding-left: 30%;
+    text-align: left;
+}
+.price-chart .free-product{
+    border: 1px solid white;
+}
+.free-product .title{
+    border-bottom: 1px solid white;
+    font-size: 18px;
+    padding-bottom: 33px;
+}
+.price-chart .starter-product{
+    border: 1px solid white;
+    border-left: 0px;
+}
+.starter-product .title{
+    border-bottom: 1px solid white;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    padding: 3% 10%;
+}
+.title .prices{
+    padding-left: 50%;
+    font-size: 14px;
+}
+.features{
+    text-align: left;
+    margin: 0%;
+    padding-right: 5%;
+    padding-top: 3%;
+    line-height: 30px;
+}
+.btmsec-content p{
+    color: #d8d8d8;
+}
+.btmsec-content{
+    font-size: large;
+}
+.fotr-button{
+    align-items: center;
+    margin: 5% 0%;
+}
+.fotr-button a{
+    color: #000000;
+    text-decoration: none;
 }
